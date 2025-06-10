@@ -31,4 +31,6 @@ Applications of this system are vast. In education, it can transcribe lectures o
 
 In conclusion, the Speech Recognition System project offers hands-on experience with audio processing, machine learning, and AI-based interaction design. It enhances understanding of both traditional and modern NLP techniques while building a tool that has practical use in numerous industries. This project is not only a technical challenge but also a valuable contribution to accessible and intelligent computing.
 
+#OUTPUT
 
+![Image](https://github.com/user-attachments/assets/e96f0d4c-5aae-45cf-a920-edf5be5dfba8)
